@@ -49,4 +49,4 @@ By inducing a strategic $+1\%$ impulse to each asset independent matrix, the str
 
 1. Clone the workspace repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/commodity-signal-analyzer.git](https://github.com/YOUR_USERNAME/commodity-signal-analyzer.git)
+python dashboard.py
